@@ -1,0 +1,22 @@
+{
+  "name": "sa_docs",
+  "version": "1.0.0",
+  "description": "Gitbook based package for documentation",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maciej Palmowski <m.palmowski@spiders.agency>",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "gitbook": "^3.2.3",
+    "gulp": "^3.9.1",
+    "path": "^0.12.7"
+  },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/npm/npm.git"
+  }
+}
